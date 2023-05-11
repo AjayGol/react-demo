@@ -66,4 +66,7 @@ buck-out/
 .jest/
 
 #VS CODE
-.vscode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

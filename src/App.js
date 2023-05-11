@@ -15,7 +15,7 @@ function App() {
                 <Link to="/login">Login</Link> |{" "}
                 <Link to="/register">Register</Link>
             </nav>
-        </div>
+                </div>
     );
 }
 
